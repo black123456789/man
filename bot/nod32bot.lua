@@ -321,7 +321,7 @@ ch: @khoffash_m
 
 ]],
     help_text = [[
-NOD32 Commands list :
+KHOFFASH Commands list :
  
 1-banhammer list ^
  
